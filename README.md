@@ -1,1 +1,1 @@
-# hse_bert_classificator
+# Классификатор статей по ГРНТИ на основе LLM BERT 
